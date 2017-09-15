@@ -121,7 +121,9 @@ a {
   color: $link-color;
   text-decoration: none;
 }
-p a {
+p a,
+ul a,
+ol a {
   text-decoration: underline;
 }
 .nav {
