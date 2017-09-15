@@ -11,7 +11,7 @@ Professionally, I'm a Computer Science major but I also dabble with [photography
 
 I love creating and building things I can call my own and I'm driven to get more people to share this passion with me. Personally, I don't think we can ever have *enough* creators, innovators and builders around us.
 
-*You can find out more about my professional experience and current skillset at http://suyashlakhotia.com.*
+*You can find out more about my professional experience and current skillset at [http://suyashlakhotia.com](http://suyashlakhotia.com).*
 
 ### Why blogging?
 
