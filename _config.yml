@@ -7,15 +7,8 @@ theme_settings:
   # Meta
   title: Suyash Lakhotia's Blog
   avatar: SL-Square.png
-  gravatar: # Email MD5 hash
+  gravatar: 2a2de496b8f9f7bac32eac19681a4091 # Email MD5 hash
   description: "A collection of observations, thoughts & ideas" # used by search engines
-
-  # Header & Footer
-  header_text: >
-    A collection of observations, thoughts & ideas
-  header_text_feature_image:
-  footer_text: >
-   Suyash Lakhotia © Powered by <a href="https://jekyllrb.com/">Jekyll</a>
 
   # Icons
   rss: false
@@ -46,12 +39,12 @@ theme_settings:
   katex: true # Enable if using math markup
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
-  str_email: "Email"
+  str_follow_on: "Follow On"
+  str_rss_follow: "Follow RSS Feed"
+  str_email: "E-Mail"
   str_next: "Older Posts"
   str_prev: "Newer Posts"
-  str_continue_reading: "Continue reading >>"
+  str_continue_reading: "Continue Reading >>"
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
