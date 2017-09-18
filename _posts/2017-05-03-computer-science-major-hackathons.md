@@ -6,7 +6,7 @@ tags:
 - Thoughts
 ---
 
-*Disclaimer: I'm a strong advocate of student hackathons and have organized a couple of my own in Singapore ([iNTUition 2016](http://intuition16.ieeentu.com) & [iNTUition v3.0](http://intuition.ieeentu.com)) so this post might be a little biased.*
+*Disclaimer: I'm a strong advocate of student hackathons and have organized a few in Singapore ([iNTUition 2016](http://intuition16.ieeentu.com/) & [iNTUition v3.0](http://intuitionv3.ieeentu.com/)) so this post might be a little biased.*
 
 **Hackathon.** If you're an engineering major, you've probably encountered this term before but what exactly is a *hackathon* and why is it so important? In a nutshell, a hackathon is an event (usually lasting 24 hours or more) where developers get together in teams and collaborate on a software/hardware project or *hack*. While competitive in nature, hackathons should never be taken as just a "coding competition" because they offer so much more than that.
 
