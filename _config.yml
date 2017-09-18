@@ -64,3 +64,11 @@ sass:
   sass_dir: _sass
   style: :compressed
 plugins: [jekyll-paginate]
+
+# CROSSPOST TO MEDIUM SETTINGS
+jekyll-crosspost_to_medium:
+  enabled: true
+  status: draft
+  text: |
+    <hr>
+    <p><i>This article was originally posted <a href=\"{{ url }}\" rel=\"canonical\">on my own blog</a>.</i></p>
