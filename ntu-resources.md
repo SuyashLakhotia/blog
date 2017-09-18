@@ -13,3 +13,7 @@ permalink: /ntu-resources/
 - CZ 3006: [Sliding Window Protocol Assignment](https://github.com/SuyashLakhotia/SlidingWindowProtocol), [Payment Form Assignment](https://github.com/SuyashLakhotia/SimplePaymentForm)
 - CZ 3007: [Lab Assignments](https://github.com/SuyashLakhotia/CompilerTechniques)
 - CZ 4041: [Kaggle Competition - Rossmann Store Sales](https://github.com/SuyashLakhotia/RossmannStoreSales)
+
+---
+
+**Disclaimer:** The above resources should only be used as a reference. They are no longer maintained and were submitted to NTU for grading as part of the respective courses.
