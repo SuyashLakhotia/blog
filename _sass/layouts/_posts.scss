@@ -82,7 +82,6 @@ header {
     }
 
     a {
-        @extend .button-link;
         padding: 2em 3em;
         border: 1px solid rgba(255, 255, 255, 0);
         text-align: center;
@@ -90,6 +89,10 @@ header {
         @media screen and (max-width: 576px) {
             width: 100%;
         }
+    }
+
+    a.post-exists {
+        @extend .button-link;
     }
 
     i {
