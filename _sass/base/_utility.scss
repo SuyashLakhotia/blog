@@ -28,6 +28,11 @@ a.button {
     @extend .button-link;
 }
 
+.button-lg {
+    padding: 0.5em 2em;
+    font-size: 1.2rem;
+}
+
 .button-link {
     &:hover {
         background: $link-color;
