@@ -19,7 +19,7 @@ layout: default
     <a id="prev-post" class="post-exists" href="{{ site.baseurl }}{{ page.previous.url }}">
         <span class="page-title">{{ page.previous.title }}</span>
         <span class="nav-label">
-            <span aria-hidden="true">←</span> {{ site.theme_settings.str_prev }}
+            <span aria-hidden="true">←</span> Previous
         </span>
     </a>
     {% else %}
@@ -30,7 +30,7 @@ layout: default
     <a id="next-post" class="post-exists" href="{{ site.baseurl }}{{ page.next.url }}">
         <span class="page-title">{{ page.next.title }}</span>
         <span class="nav-label">
-            {{ site.theme_settings.str_next }} <span aria-hidden="true">→</span>
+            Next <span aria-hidden="true">→</span>
         </span>
      </a>
     {% endif %}

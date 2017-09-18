@@ -23,7 +23,7 @@ layout: default
             <div class="excerpt">
                 {{ post.excerpt }}
                 <a class="button" href="{{ post.url | prepend: site.baseurl }}">
-                    {{ site.theme_settings.str_continue_reading }}
+                    Continue Reading >>
                 </a>
             </div>
         </div>
@@ -34,12 +34,12 @@ layout: default
     <div class="pagination">
         {% if paginator.previous_page %}
         <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-            <span aria-hidden="true">←</span> {{ site.theme_settings.str_prev }}
+            <span aria-hidden="true">←</span> Older Posts
         </a>
         {% endif %}
         {% if paginator.next_page %}
         <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
-            {{ site.theme_settings.str_next }} <span aria-hidden="true">→</span>
+            Newer Posts <span aria-hidden="true">→</span>
         </a>
         {% endif %}
     </div>
