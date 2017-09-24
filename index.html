@@ -22,6 +22,8 @@ layout: default
             </header>
             <div class="excerpt">
                 {{ post.excerpt }}
+            </div>
+            <div>
                 <a class="button" href="{{ post.url | prepend: site.baseurl }}">
                     Continue Reading >>
                 </a>
@@ -32,13 +34,13 @@ layout: default
 
     {% if paginator.total_pages > 1 %}
     <div class="pagination">
-        {% if paginator.previous_page %}
-        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button button-lg" >
+        {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button button-lg" >
             <span aria-hidden="true">←</span> Older Posts
         </a>
         {% endif %}
-        {% if paginator.next_page %}
-        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button button-lg" >
+        {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button button-lg" >
             Newer Posts <span aria-hidden="true">→</span>
         </a>
         {% endif %}
