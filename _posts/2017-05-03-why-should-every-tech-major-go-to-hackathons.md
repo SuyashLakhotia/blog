@@ -5,6 +5,7 @@ tags:
 - Hackathons
 - Thoughts
 excerpt_separator: <!--excerpt-->
+crosspost_to_medium: true
 ---
 
 *Disclaimer: I'm a strong advocate of student hackathons and have organized a few in Singapore ([iNTUition 2016](http://intuition16.ieeentu.com/) & [iNTUition v3.0](http://intuitionv3.ieeentu.com/)) so this post might be a little biased.*
@@ -13,7 +14,7 @@ excerpt_separator: <!--excerpt-->
 
 <!--excerpt-->
 
-To begin with, hackathons are a massive learning experience for students. You get a chance to apply your knowledge on an actual project and create something tangible instead of relying on ~~the bi-annual regurgitation of crammed information~~ examinations to be the sole judge of your skills. Additionally, since most hackathons don't have a selection process, you can sign-up regardless of whether you have a lot of experience or none at all.
+To begin with, hackathons are a massive learning experience for students. You get a chance to apply your knowledge on an actual project and create something tangible instead of relying on the bi-annual regurgitation of crammed information (i.e. examinations) to be the sole judge of your skills. Additionally, since most hackathons don't have a selection process, you can sign-up regardless of whether you have a lot of experience or none at all.
 
 As a student, during the 24 hours (or more), you will be amazed by the amount of knowledge you can gain. With everyone coding away, you will definitely feel the urge to do the same and Google & Stack Overflow will become your new best friends. In addition to learning by yourself, you will also grow as a developer through others around you. This is because hackathons are also inherently social events where you can interact with like-minded people and talk about their latest projects as well as their preferred tools and resources. This will give you a chance to network with and become part of the local developer community. Additionally, if you're at a hackathon organized or sponsored by a top tech firm, you may even get a chance to network with their employees, which may prove very useful during your search for internships and full-time opportunities.
 
