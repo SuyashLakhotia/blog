@@ -60,7 +60,8 @@ plugins: [jekyll-paginate]
 # CROSSPOST TO MEDIUM SETTINGS
 jekyll-crosspost_to_medium:
   enabled: true
-  status: draft
+  status: unlisted
+  backdate: false
   text: |
     <hr>
-    <p><i>This article was originally posted <a href=\"{{ url }}\" rel=\"canonical\">on my own blog</a>.</i></p>
+    <p><i>This article was originally posted on <a href="http://suyashlakhotia.com/blog/">my blog</a>.</i></p>
