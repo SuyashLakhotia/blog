@@ -11,7 +11,7 @@ theme_settings:
   description: "A collection of observations, thoughts & ideas" # used by search engines
 
   # Icons
-  rss: false
+  rss: true
   email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
