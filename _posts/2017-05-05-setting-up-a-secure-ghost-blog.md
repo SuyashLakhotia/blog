@@ -3,11 +3,14 @@ layout: post
 title: Setting Up a Secure Ghost Blog
 tags:
 - Guides
+excerpt_separator: <!--excerpt-->
 ---
 
 > UPDATE: This blog is no longer published using Ghost. I use Jekyll + GitHub Pages now.
 
 *The following is a short guide to set up a secure [Ghost](https://ghost.org/) blog on a DigitalOcean droplet running Ubuntu (which is how this blog is set up).*
+
+<!--excerpt-->
 
 ### Step 1 - Create the DigitalOcean Droplet
 
