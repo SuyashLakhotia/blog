@@ -5,7 +5,6 @@ tags:
 - Hackathons
 - Thoughts
 excerpt_separator: <!--excerpt-->
-crosspost_to_medium: true
 ---
 
 *Disclaimer: I'm a strong advocate of student hackathons and have organized a few in Singapore ([iNTUition 2016](http://intuition16.ieeentu.com/) & [iNTUition v3.0](http://intuitionv3.ieeentu.com/)) so this post might be a little biased.*
