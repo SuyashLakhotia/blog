@@ -32,7 +32,9 @@ Additionally, from what I gathered during my first week, the engineering teams i
 
 In closing, I'm thrilled to be working here for the summer (already pushed a few lines of code to production on Friday, yay!) and can't wait for Monday (something I thought I'd never say). Here's to the next three months! 🍻
 
-![All of the summer interns with our Noogler caps.]({{ site.baseurl }}/img/First-Week-at-Google-Interns.jpg){: .image-center}
+![]({{ site.baseurl }}/img/First-Week-at-Google-Interns.jpg){: .image-center}
+
+<p class="image-caption">All of the summer interns with our Noogler caps!</p>
 
 ---
 [^1]: https://en.wikipedia.org/wiki/Impostor_syndrome
