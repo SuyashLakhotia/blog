@@ -27,7 +27,7 @@ h5,
 h6 {
     font-family: $font-family-headings;
     line-height: 1.3;
-    margin: 1em 0;
+    margin: 1.5em 0 0.5em 0;
     a {
         color: $text-color;
     }
@@ -217,6 +217,10 @@ img[align=left] {
 
 img[align=right] {
     margin-left: 3%;
+}
+
+.post-content img:not(.emoji) {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
 }
 
 .image-center {
