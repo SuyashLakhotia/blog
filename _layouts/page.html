@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-<article {% if page.feature-img %}class="feature-image"{% endif %}>
-    <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
+<article {% if page.post-img %}class="feature-image"{% endif %}>
+    <header {% if page.post-img %}style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/{{ page.post-img }}'); background-position: center;"{% endif %}">
         <h1 class="title">{{ page.title }}</h1>
     </header>
     <section class="post-content">{{ content }}</section>
