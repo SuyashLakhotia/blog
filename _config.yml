@@ -55,7 +55,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate]
+plugins: [jekyll-paginate, jemoji]
 
 # CROSSPOST TO MEDIUM SETTINGS
 jekyll-crosspost_to_medium:
