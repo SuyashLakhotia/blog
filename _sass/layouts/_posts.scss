@@ -4,7 +4,7 @@ article,
     @media screen and (max-width: 576px) {
         padding: $padding-small;
     }
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     float: left;
     width: 100%;
 }
@@ -14,8 +14,11 @@ article {
         margin-bottom: 6%;
         text-align: center;
     }
-    a {
-        @extend .body-link;
+    p a {
+        @extend .p-link;
+    }
+    img:not(.emoji) {
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
     }
     .footnotes {
         font-size: 0.9em;
@@ -38,19 +41,19 @@ header {
 .feature-image {
     padding: 0%;
     .post-link {
-        color: $feature-image-text-color;
+        color: #fff;
     }
     header {
-        color: $feature-image-text-color;
-        background-size: $feature-image-size;
+        color: #fff;
+        background-size: cover;
         margin-bottom: 0;
-        padding: $padding-large/2.5 $padding-large;
+        padding: $padding-large/2.5 $padding-large/2;
         .meta {
-            color: rgba($feature-image-text-color, .7);
+            color: rgba(#fff, 0.7);
         }
     }
     .post-content {
-        @extend %padding-regular;
+        padding: $padding-x-small $padding-large $padding-small $padding-large;
     }
 }
 
@@ -63,7 +66,7 @@ header {
 // Post navigation
 #post-nav {
     width: 100%;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
     display: flex;
     @media screen and (max-width: 576px) {
         flex-direction: column;

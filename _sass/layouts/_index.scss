@@ -3,11 +3,11 @@
     @extend %padding-regular;
     display: inline-block;
     width: 100%;
-    background-color: $header-desc-background-color;
+    background-color: #333;
     background-size: cover;
     font-size: 1.2em;
     text-align: center;
-    color: $header-desc-text-color;
+    color: #fff;
 }
 
 .call-out p:last-child {
@@ -24,10 +24,10 @@
         width: 100%;
         margin-bottom: 0;
         display: inline-block;
-        background-size: $feature-image-size;
-        border-bottom: 1px solid $border-color;
+        background-size: cover;
+        border-bottom: 1px solid rgba(0, 0, 0, 0.1);
         p a {
-            @extend .body-link;
+            @extend .p-link;
         }
     }
     .excerpt {

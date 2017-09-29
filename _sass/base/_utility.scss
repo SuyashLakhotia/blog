@@ -1,4 +1,4 @@
-// Mix-ins
+// Mixins
 %padding-small {
     padding: $padding-x-small $padding-x-small * 2;
     @media (max-width: 1000px) {
@@ -11,46 +11,4 @@
     @media (max-width: 1000px) {
         padding: $padding-small * 1.5 $padding-large / 1.6;
     }
-}
-
-// Buttons
-.button {
-    border-radius: 0.3em;
-    border: 1px solid;
-    display: inline-block;
-    margin: 1em 0;
-    padding: 0.5em 1em;
-    transition: all 0.4s ease;
-    font-family: $font-family-sans-serif;
-    font-size: 1rem;
-}
-
-a.button {
-    @extend .button-link;
-}
-
-.button-lg {
-    padding: 0.5em 2em;
-    font-size: 1.2rem;
-}
-
-.button-link {
-    &:hover {
-        background: $link-color;
-        border: 1px solid $link-color;
-        color: $background-color;
-        text-decoration: none;
-    }
-}
-
-.body-link {
-    &:hover {
-        text-decoration: underline;
-        color: darken($link-color, 15%);
-    }
-}
-
-// States
-.disabled {
-    opacity: 0.7;
 }
