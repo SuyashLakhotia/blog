@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Week at Google!
-post-img: "img/First-Week-at-Google-Post-Image.png"
+image: img/First-Week-at-Google-Post-Image.png
 tags:
 - Thoughts
 ---

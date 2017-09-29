@@ -1,13 +1,28 @@
 # SITE CONFIGURATION
-baseurl: "/blog"
 url: "http://suyashlakhotia.com"
+baseurl: "/blog"
+
+# SITE DETAILS
+title: "Suyash Lakhotia's Blog"
+description: "A collection of observations, thoughts & ideas"
+logo: "img/SL-Square.png"
+author: "Suyash Lakhotia"
+twitter:
+  username: "SuyashLakhotia"
+social:
+  name: "Suyash Lakhotia"
+  links:
+    github: "https://github.com/SuyashLakhotia"
+    linkedin: "https://www.linkedin.com/in/suyashlakhotia/"
+    twitter: "https://twitter.com/SuyashLakhotia"
+    facebook: "https://www.facebook.com/suyash.lakhotia"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Suyash Lakhotia's Blog
-  avatar: SL-Square.png
-  gravatar: 2a2de496b8f9f7bac32eac19681a4091 # Email MD5 hash
+  title: "Suyash Lakhotia's Blog"
+  avatar: "SL-Square.png"
+  gravatar: "2a2de496b8f9f7bac32eac19681a4091" # Email MD5 hash
   description: "A collection of observations, thoughts & ideas" # used by search engines
 
   # Icons
@@ -21,7 +36,7 @@ theme_settings:
   github: "SuyashLakhotia"
   google_plus:
   instagram:
-  linkedin:  "https://www.linkedin.com/in/suyashlakhotia/" # Full URL
+  linkedin: "https://www.linkedin.com/in/suyashlakhotia/" # Full URL
   pinterest:
   reddit:
   soundcloud:
@@ -55,7 +70,7 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-plugins: [jekyll-paginate, jemoji]
+plugins: [jekyll-paginate, jemoji, jekyll-seo-tag]
 
 # CROSSPOST TO MEDIUM SETTINGS
 jekyll-crosspost_to_medium:

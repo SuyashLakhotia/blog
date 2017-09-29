@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating & Evolving a Hackathon
-post-img: "img/iNTUition-Post-Image.jpg"
+image: img/iNTUition-Post-Image.jpg
 tags:
 - Thoughts
 - Hackathons
