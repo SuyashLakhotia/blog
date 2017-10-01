@@ -11,7 +11,7 @@ tags:
 
 As a freshman at Nanyang Tech back in 2014, I remember being particularly disappointed with the lack of tech events and clubs on campus. NTU just had a handful of tech-oriented student clubs, barely any major tech events and no annual hackathon (unlike [most](https://www.treehacks.com/) [major](https://www.yhack.org/) [engineering](https://calhacks.io/) [universities](http://hacknroll.nushackers.org/)).
 
-Nonetheless, there were two student clubs that caught my attention (despite being designated `Tier 3` by NTU's club system) — [NTU Open Source Society](http://www.facebook.com/ntuoss/) & [IEEE NTU Student Branch](http://www.facebook.com/IEEENTU/). I applied to both and had interviews with both clubs' executive members. By my third week at university, I had joined IEEE NTU Student Branch as a Publicity Director and had gotten rejected by NTU Open Source Society (I'm now President of the club :wink:).
+Nonetheless, there were two student clubs that caught my attention (despite being designated `Tier 3` by NTU's club system) — [NTU Open Source Society](http://ntuoss.com) & [IEEE NTU Student Branch](http://www.facebook.com/IEEENTU/). I applied to both and had interviews with both clubs' executive members. By my third week at university, I had joined IEEE NTU Student Branch as a Publicity Director and had gotten rejected by NTU Open Source Society (I'm now President of the club :wink:).
 
 ### `iNTUition.init()`
 
