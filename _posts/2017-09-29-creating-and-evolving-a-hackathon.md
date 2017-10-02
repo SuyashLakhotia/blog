@@ -13,7 +13,7 @@ As a freshman at Nanyang Tech back in 2014, I remember being particularly disapp
 
 Nonetheless, there were two student clubs that caught my attention (despite being designated `Tier 3` by NTU's club system) — [NTU Open Source Society](http://ntuoss.com) & [IEEE NTU Student Branch](http://www.facebook.com/IEEENTU/). I applied to both and had interviews with both clubs' executive members. By my third week at university, I had joined IEEE NTU Student Branch as a Publicity Director and had gotten rejected by NTU Open Source Society (I'm now President of the club :wink:).
 
-### `iNTUition.init()`
+#### `iNTUition.init()`
 
 I don't exactly remember how the idea of a hackathon was brought up but during one of the club's initial meetings in August 2014, it became fairly clear that we would organize one — NTU's first *proper* 24-hour hackathon. Having never been to a hackathon myself, it was exciting to be part of a team that was organizing something so integral to [hacker culture](https://en.wikipedia.org/wiki/Hacker_culture).
 
@@ -21,13 +21,13 @@ We didn't have a name for the hackathon yet and I distinctly remember the brains
 
 Finally, it was decided that the hackathon would be held on the weekend of 25th & 26th October, which gave us just enough time to set things up and wasn't too close to the final examinations.
 
-### `Error: Variable 'hackathon' already defined.`
+#### `Error: Variable 'hackathon' already defined.`
 
 Immediately after the meeting, the team got to work. We had to write an event proposal for NTU's Student Affairs Office (SAO), source for sponsors, get a venue and decide on prizes in a month's time before we opened registrations. It was extremely overwhelming.
 
 As luck would have it, it wasn't too long before we hit our first hurdle. SAO wouldn't let us use the term 'hackathon' for our event because there was already another event on campus using the same term. **What?! Where?** Turns out, one of the student clubs [name redacted] was holding a two-hour coding challenge and calling it a hackathon. Despite our best efforts, we couldn't convince the management to let us use the term too and we had to rename our event to 'iNTUition: 24-hour Coding & Pitching Competition'. Oh, bureaucracy.
 
-### `iNTUition.setup()`
+#### `iNTUition.setup()`
 
 On the flip side, we managed to score a venue and our first sponsor for the event — [Nanyang Technopreneurship Center](http://www.ntc.ntu.edu.sg/Pages/home.aspx). The Director of NTC at the time also agreed to be part of the judging panel, which was great.
 
@@ -43,7 +43,7 @@ A few days after our sponsorships deals closed, the posters below (my Photoshop 
 
 <p class="image-caption">iNTUition 2014 Poster</p>
 
-### `iNTUition.run()`
+#### `iNTUition.run()`
 
 And so, we ran the very first iNTUition with ~70 participants. Most of the event went smoothly (thanks to our logistics team) but we ended up overshooting the time allotted to us on Sunday by a few hours, which wasn't the best thing for a bunch of sleep-deprived college students. Nonetheless, we **successfully ran NTU's first 24-hour hackathon** and actually had some pretty quality hacks come out of it! If I remember correctly, the winning hack was one that aggregated loyalty points across e-commerce platforms & physical retail stores.
 
@@ -51,7 +51,7 @@ And so, we ran the very first iNTUition with ~70 participants. Most of the event
 
 <p class="image-caption">iNTUition 2014's Opening Briefing</p>
 
-### `iNTUition.upgrade()`
+#### `iNTUition.upgrade()`
 
 Since the first iNTUition in October 2014, we've had major improvements to branding, event quality and general tech-iness. We've organized iNTUition two more times, once in March 2016 ([iNTUition 2016](http://intuition16.ieeentu.com/)) when I was Chair of iNTUition's organizing committee and another time in October 2016 ([iNTUition v3.0](http://intuitionv3.ieeentu.com/)) when I was President of the club. Each year, we've gotten more participants and sponsors, better prizes & hacks of higher quality through the hard work and dedication of the team.
 
@@ -63,7 +63,7 @@ Since the first iNTUition in October 2014, we've had major improvements to brand
 
 <p class="image-caption">Winners &amp; Judging Panel of iNTUition v3.0</p>
 
-### `while(true) { iNTUition.run() }`
+#### `while(true) { iNTUition.run() }`
 
 In conclusion, iNTUition has been a pretty important part of my university life and while I'm no longer part of the organizing committee, having ended my term as President in July 2017, I'm extremely excited to attend iNTUition 2017 as a participant and can't wait to see how iNTUition grows over the next few years.
 

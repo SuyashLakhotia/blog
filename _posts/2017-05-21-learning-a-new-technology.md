@@ -28,13 +28,13 @@ Obviously, this entire process is only meant to achieve an initial exposure to `
 
 **But is this the *right* way to learn?** Let's look at the pros & cons.
 
-**Pros:**
+##### Pros
 
 - This learning process is efficient (barring one's procrastination habits) and doesn't *usually* get boring.
 - There is a constant application of the concepts learned and there is an end goal to work towards.
 - The final application built is "proof" of one's newly learned skills.
 
-**Cons:**
+##### Cons
 
 - It's not that easy to come up with ideas for applications to build using `X` when you're still learning. *There are only so many [todo list](http://todomvc.com/) or note-taking applications one can build in a lifetime.*
 - There is a tendency for Google searches and StackOverflow to take precedence over documentation during the "building" phase, which is not always bad but can lead to a shallow understanding of `X`.

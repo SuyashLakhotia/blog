@@ -13,7 +13,7 @@ I love creating and building things I can call my own and I'm driven to get more
 
 *You can find out more about my professional experience and current skillset at [http://suyashlakhotia.com](http://suyashlakhotia.com).*
 
-### Why blogging?
+#### Why blogging?
 
 I've been thinking about starting a blog *of sorts* for the longest time now. The reason I say "of sorts" is because I want this to be a space where I can store my ideas, share my experiences and keep track of my progress in life, and I don't really know if that falls under the conventional definition of a "blog". *Maybe this is more of a journal?*
 
