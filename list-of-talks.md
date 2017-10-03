@@ -3,6 +3,7 @@ layout: page
 title: Talks
 permalink: /talks/
 ---
+
 > Docendo discimus.
 
 Below is a list of talks/workshops I've conducted (in reverse chronological order):
