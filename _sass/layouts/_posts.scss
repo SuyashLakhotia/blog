@@ -10,6 +10,12 @@ article,
 }
 
 article {
+    .subtitle {
+        font-size: 1.2em;
+        font-weight: normal;
+        margin: 0;
+        padding-bottom: 10px;
+    }
     header {
         margin-bottom: 6%;
         text-align: center;
