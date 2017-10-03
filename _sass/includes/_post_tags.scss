@@ -1,9 +1,9 @@
 // Post Tags
 .tags {
-    width: 100%;
-    margin-top: $padding-small;
-    margin-bottom: $padding-small;
+    margin-top: 1em;
     text-align: center;
+    font-family: $font-family-sans-serif;
+    font-size: 0.8em;
 
     .tag {
         margin-right: 0.5em;

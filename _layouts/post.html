@@ -9,6 +9,7 @@ layout: default
             {{ page.date | date: "%B %-d, %Y" }}
             {% if page.author %} - {{ page.author }}{% endif %}
         </p>
+        {% include post_tags.html tags=page.tags tag_count=page.tags.size %}
     </header>
     
     <div class="container-fluid">
@@ -18,8 +19,6 @@ layout: default
             </div>
         </div>
     </div>
-
-    {% include post_tags.html tags=page.tags tag_count=page.tags.size %}
 </article>
 
 <!-- Post Navigation -->
