@@ -9,6 +9,10 @@ article,
     width: 100%;
 }
 
+.post-content > :last-child {
+    margin-bottom: 0;
+}
+
 article {
     .subtitle {
         font-size: 1.2em;

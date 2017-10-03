@@ -1,0 +1,13 @@
+.tag-title {
+    color: $tags-color;
+    margin-bottom: 0;
+}
+
+.tagged-post {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    .title {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+}

@@ -18,8 +18,10 @@
 // Pages
 @import 'layouts/index';
 @import 'layouts/posts';
+@import 'layouts/tags';
 
 // Partials
 @import 'includes/header';
 @import 'includes/footer';
+@import 'includes/post_tags';
 @import 'includes/post_nav';

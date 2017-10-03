@@ -12,6 +12,8 @@ layout: default
     </header>
 
     <section class="post-content">{{ content }}</section>
+
+    {% include post_tags.html tags=page.tags tag_count=page.tags.size %}
 </article>
 
 <!-- Post navigation -->
