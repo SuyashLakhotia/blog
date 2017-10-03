@@ -1,55 +1,51 @@
-// Header text feature
+// Header Text
 .call-out {
-    @include padding-regular;
-    display: inline-block;
-    width: 100%;
+    @include padding-y-regular;
     background-color: #333;
-    background-size: cover;
     font-size: 1.2em;
     text-align: center;
     color: #fff;
 }
 
-.call-out p:last-child {
-    margin-bottom: 0;
-}
-
-// Post listing
+// Post Listing
 .posts {
     .post-teaser {
-        @include padding-regular;
-        @media screen and (max-width: 576px) {
-            padding: $padding-small;
-        }
-        width: 100%;
-        margin-bottom: 0;
-        display: inline-block;
-        background-size: cover;
+        @include padding-y-regular;
         border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+
+        .title,
+        .subtitle,
+        .meta {
+            margin: 0;
+            padding: 0;
+        }
+
+        .title {
+            padding-bottom: 5px;
+        }
+
         .subtitle {
             font-size: 1.2em;
             font-weight: normal;
-            margin: 0;
-            padding-bottom: 10px;
+            padding-bottom: 5px;
         }
+    }
+
+    .excerpt {
+        margin-top: 1em;
+
         p a {
             @extend .p-link;
         }
     }
-    .excerpt {
-        margin-top: 1em;
-    }
 }
 
 // Pagination
-.pagination .button {
-    margin: 0.5em 1.5em;
-    i {
-        vertical-align: middle;
-    }
-}
-
 .pagination {
-    padding: $padding-small $padding-small 0 $padding-small;
+    padding: $padding-small $padding-small $padding-x-small $padding-small;
     text-align: center;
+
+    .button {
+        margin: 0.5em 1.5em;
+    }
 }

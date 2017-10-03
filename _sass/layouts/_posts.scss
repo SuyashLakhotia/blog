@@ -1,73 +1,60 @@
-article,
-.comments {
-    @include padding-regular;
-    @media screen and (max-width: 576px) {
-        padding: $padding-small;
-    }
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    float: left;
-    width: 100%;
-}
-
-.post-content > :last-child {
-    margin-bottom: 0;
-}
-
 article {
-    .subtitle {
-        font-size: 1.2em;
-        font-weight: normal;
-        margin: 0;
-        padding-bottom: 10px;
-    }
+    @include padding-y-regular;
+
     header {
-        margin-bottom: 6%;
         text-align: center;
+        margin-bottom: 5%;
+
+        h1 {
+            margin: 0;
+        }
+
+        .subtitle {
+            font-size: 1.2em;
+            font-weight: normal;
+            margin: 0;
+            padding-bottom: 10px;
+        }
+
+        .meta {
+            color: rgba($text-color, .5);
+            font-size: 0.9em;
+            letter-spacing: 0.1em;
+            margin: 0;
+            text-transform: uppercase;
+        }
     }
-    p a {
-        @extend .p-link;
-    }
-    img:not(.emoji) {
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
-    }
-    .footnotes {
-        font-size: 0.9em;
+
+    .post-content {
+        a {
+            @extend .p-link;
+        }
+
+        img:not(.emoji) {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+        }
+
+        .footnotes {
+            font-size: 0.9em;
+        }
     }
 }
 
-header {
-    h1 {
-        margin: 0;
-    }
-    .meta {
-        color: rgba($text-color, .5);
-        font-size: 0.9em;
-        letter-spacing: 0.1em;
-        margin: 0;
-        text-transform: uppercase;
-    }
-}
+article.feature-image {
+    padding: 0;
 
-.feature-image {
-    padding: 0%;
-    .post-link {
-        color: #fff;
-    }
     header {
         color: #fff;
         background-size: cover;
-        margin-bottom: 0;
         padding: $padding-large/2.5 $padding-large/2;
+
         .meta {
             color: rgba(#fff, 0.7);
         }
     }
-    .post-content {
-        padding: $padding-x-small $padding-large $padding-small $padding-large;
-    }
 }
 
-@media screen and (max-width: 576px) {
+@media screen and (max-width: 575px) {
     .feature-image .post-content {
         padding: $padding-small;
     }

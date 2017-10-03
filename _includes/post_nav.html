@@ -1,20 +1,29 @@
-<div id="post-nav">
-    {% if page.previous.url %}
-    <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
-        <span class="page-title">{{ page.previous.title }}</span>
-        <span class="nav-label">
-            <span aria-hidden="true">←</span> Previous
-        </span>
-    </a>
-    {% else %}
-    <div class="post-nav-placeholder"></div>
-    {% endif %}
-    {% if page.next.url %}
-    <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
-        <span class="page-title">{{ page.next.title }}</span>
-        <span class="nav-label">
-            Next <span aria-hidden="true">→</span>
-        </span>
-     </a>
-    {% endif %}
+<div class="container-fluid" id="post-nav">
+    <div class="row justify-content-center">
+        {% if page.previous.url %}
+        <div class="col-12 col-lg-6 post-nav-button">
+            <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
+                <p class="page-title">{{ page.previous.title }}</p>
+                <span class="nav-label">
+                    <span aria-hidden="true">←</span> Previous
+                </span>
+            </a>
+        </div>
+        {% else %}
+        <div class="col-12 col-lg-6 post-nav-placeholder"></div>
+        {% endif %}
+        
+        {% if page.next.url %}
+        <div class="col-12 col-lg-6 post-nav-button">
+            <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
+                <p class="page-title">{{ page.next.title }}</p>
+                <span class="nav-label">
+                    Next <span aria-hidden="true">→</span>
+                </span>
+             </a>
+        </div>
+        {% else %}
+        <div class="col-12 col-lg-6 post-nav-placeholder"></div>
+        {% endif %}
+    </div>
 </div>

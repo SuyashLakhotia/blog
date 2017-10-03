@@ -10,13 +10,19 @@ layout: default
             {% if page.author %} - {{ page.author }}{% endif %}
         </p>
     </header>
-
-    <section class="post-content">{{ content }}</section>
+    
+    <div class="container-fluid">
+        <div class="row justify-content-center">
+            <div class="col-11 col-lg-8">
+                <section class="post-content">{{ content }}</section>
+            </div>
+        </div>
+    </div>
 
     {% include post_tags.html tags=page.tags tag_count=page.tags.size %}
 </article>
 
-<!-- Post navigation -->
+<!-- Post Navigation -->
 {% if site.theme_settings.post_navigation %}
     {% include post_nav.html %}
 {% endif %}

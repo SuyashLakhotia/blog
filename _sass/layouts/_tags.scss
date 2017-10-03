@@ -1,13 +1,32 @@
+.tag-section {
+    margin-bottom: 3em;
+}
+
+.tag-section:last-child {
+    margin-bottom: 0;
+}
+
 .tag-title {
     color: $tags-color;
+    margin-top: 0;
     margin-bottom: 0;
 }
 
 .tagged-post {
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
     .title {
         margin-top: 0;
         margin-bottom: 0;
+        padding-bottom: 10px;
+
+        a {
+            box-shadow: none;
+
+            &:hover {
+                box-shadow: none;
+            }
+        }
     }
 }

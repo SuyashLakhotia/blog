@@ -1,9 +1,7 @@
+// Site Header
 .site-header {
     @include padding-small;
     border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    display: inline-block;
-    width: 100%;
-    float: left;
     font-family: $font-family-sans-serif;
 
     a {
@@ -14,17 +12,15 @@
     .avatar {
         height: 2em;
         width: 2em;
-        float: left;
-        margin-top: -3px;
         border-radius: 0.2em;
         margin-right: 1em;
+        display: inline;
+        vertical-align: middle;
     }
 
     .site-title {
-        float: left;
         font-weight: bold;
         font-size: 1em;
-        line-height: 1.5;
     }
 
     .site-nav {
@@ -33,27 +29,21 @@
             padding: 0;
             list-style: none;
             line-height: 1.5;
-            float: right;
             text-align: right;
         }
+
         li {
             display: inline;
-            float: left;
             margin-right: 0.4em;
-        }
-        @media (max-width: 1100px) {
-            ul {
-                display: inline-block;
-                float: left;
-                padding-top: $padding-small;
-                text-align: left;
-                width: 100%;
-            }
         }
     }
 }
 
-@media (max-width: 768px) {
+@media (max-width: 991px) {
+    .site-header .branding {
+        text-align: center;
+    }
+
     .site-header .site-nav {
         display: none;
     }
