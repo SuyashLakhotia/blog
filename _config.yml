@@ -66,12 +66,3 @@ sass:
   sass_dir: _sass
   style: compressed
 plugins: [jekyll-paginate, jemoji, jekyll-seo-tag]
-
-# CROSSPOST TO MEDIUM SETTINGS
-jekyll-crosspost_to_medium:
-  enabled: true
-  status: unlisted
-  backdate: false
-  text: |
-    <hr>
-    <p><i>This article was originally posted on <a href="http://suyashlakhotia.com/blog/">my blog</a>.</i></p>
