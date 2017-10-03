@@ -4,7 +4,7 @@ layout: default
 
 <div class="container-fluid call-out">
     <div class="row justify-content-center">
-        <div class="col-11 col-6">
+        <div class="col-12 col-6">
             A collection of observations, thoughts &amp; ideas
         </div>
     </div>
@@ -15,7 +15,7 @@ layout: default
     <div class="row post-teaser">
         <div class="col-12">
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <h1 class="title">
                         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
                     </h1>
@@ -23,23 +23,23 @@ layout: default
             </div>
             {% if post.subtitle %}
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <h2 class="subtitle">{{ post.subtitle }}</h2>
                 </div>
             </div>
             {% endif %}
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <div class="excerpt">{{ post.excerpt }}</div>
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-11 col-lg-8">
+                <div class="col-12 col-lg-8">
                     <a class="button" href="{{ post.url | prepend: site.baseurl }}">Continue Reading >></a>
                 </div>
             </div>
