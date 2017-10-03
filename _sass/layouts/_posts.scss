@@ -1,8 +1,9 @@
 article {
-    @include padding-y-regular;
+    padding-top: $padding-small;
 
     header {
         text-align: center;
+        padding: 0 $padding-large/2;
 
         h1 {
             margin: 0;
