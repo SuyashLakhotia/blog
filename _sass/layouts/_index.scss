@@ -32,6 +32,11 @@
             @extend .p-link;
         }
     }
+
+    .tags {
+        text-align: left;
+        margin-top: 1.2em;
+    }
 }
 
 // Pagination
