@@ -64,7 +64,7 @@ markdown: kramdown
 highlighter: rouge
 sass:
   sass_dir: _sass
-  style: :compressed
+  style: compressed
 plugins: [jekyll-paginate, jemoji, jekyll-seo-tag]
 
 # CROSSPOST TO MEDIUM SETTINGS
