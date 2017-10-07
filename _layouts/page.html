@@ -2,9 +2,13 @@
 layout: default
 ---
 <article {% if page.image %}class="feature-image"{% endif %}>
-    <header {% if page.image %}style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/{{ page.image }}'); background-position: center;"{% endif %}>
-        <h1 class="title">{{ page.title }}</h1>
-    </header>
+    <div class="post-header container-fluid" {% if page.image %}style="background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('{{ site.baseurl }}/{{ page.image }}'); background-position: center;"{% endif %}>
+        <div class="row justify-content-center">
+            <div class="col-12">
+                <h1 class="title">{{ page.title }}</h1>
+            </div>
+        </div>
+    </div>
     
     <div class="container-fluid">
         <div class="row justify-content-center">

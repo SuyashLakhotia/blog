@@ -1,7 +1,7 @@
 article {
     padding-top: $padding-small;
 
-    header {
+    .post-header {
         text-align: center;
         padding: 0 $padding-large/2;
 
@@ -39,7 +39,7 @@ article {
 article.feature-image {
     padding: 0;
 
-    header {
+    .post-header {
         color: #fff;
         background-size: cover;
         padding: $padding-large/2.5 $padding-large/2;
@@ -47,11 +47,5 @@ article.feature-image {
         .meta {
             color: rgba(#fff, 0.7);
         }
-    }
-}
-
-@media screen and (max-width: 575px) {
-    .feature-image .post-content {
-        padding: $padding-small;
     }
 }
