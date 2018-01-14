@@ -12,13 +12,13 @@ I created Bootstrap Cards because I wanted to learn Sass, become fluent with Boo
 
 There are three main templates within Bootstrap Cards. The first is a template for a one-page website or home page, which I also use for my personal website.
 
-![]({{ site.baseurl }}/img/Bootstrap-Cards-Home-Page.png){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Bootstrap-Cards/Home-Page.png){: .image-center}
 
 The other two templates are for a blog-like website. The first is a template for a blog home page with links to all the posts and the second is a template for the actual blog posts.
 
-![]({{ site.baseurl }}/img/Bootstrap-Cards-Blog-Home.png){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Bootstrap-Cards/Blog-Home.png){: .image-center}
 
-![]({{ site.baseurl }}/img/Bootstrap-Cards-Blog-Post.png){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Bootstrap-Cards/Blog-Post.png){: .image-center}
 
 While the template does implement its own typography, navbar and other components, the main idea behind Bootstrap Cards is the *cards*, which was fairly simple to implement using Bootstrap's grid and some custom CSS (below).
 

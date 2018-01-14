@@ -18,7 +18,7 @@ excerpt_separator: <!--excerpt-->
 
 Once you're logged in, click on the "Create Droplet" button. Choose the "One-click apps" tab when asked to choose an image and select "Ghost xx.xx.x on xx.xx". This will create a droplet running Ubuntu with everything pre-installed for Ghost.
 
-![]({{ site.baseurl }}/img/Setting-Up-a-Secure-Ghost-Blog-Create-Droplet.png){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Ghost-Blog/Create-Droplet.png){: .image-center}
 
 Next, choose a size (I'm currently using the 1 GB, $10/month size, which is the minimum requirement for Ghost). Select a datacenter (preferably the one closest to you) and choose any additional options that you may like. Finally, pick a hostname (example: `ghost-blog`) and click "Create".
 

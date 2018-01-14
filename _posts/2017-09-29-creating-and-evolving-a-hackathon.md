@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creating & Evolving a Hackathon
-image: img/iNTUition-Post-Image.jpg
+image: img/2017/09/iNTUition/iNTUition-Post-Image.jpg
 tags:
 - Thoughts
 - Hackathons
@@ -39,7 +39,7 @@ We were still short on cash when SAO came swooping in with a $700 grant (thanks 
 
 A few days after our sponsorships deals closed, the posters below (my Photoshop skills aren't the best) went up around the university and registrations started flowing in.
 
-![]({{ site.baseurl }}/img/iNTUition-2014-Poster.jpg){: .image-center style="max-height: 25em"}
+![]({{ site.baseurl }}/img/2017/09/iNTUition/iNTUition-2014-Poster.jpg){: .image-center style="max-height: 25em"}
 
 <p class="image-caption">iNTUition 2014 Poster</p>
 
@@ -47,7 +47,7 @@ A few days after our sponsorships deals closed, the posters below (my Photoshop 
 
 And so, we ran the very first iNTUition with ~70 participants. Most of the event went smoothly (thanks to our logistics team) but we ended up overshooting the time allotted to us on Sunday by a few hours, which wasn't the best thing for a bunch of sleep-deprived college students. Nonetheless, we **successfully ran NTU's first 24-hour hackathon** and actually had some pretty quality hacks come out of it! If I remember correctly, the winning hack was one that aggregated loyalty points across e-commerce platforms & physical retail stores.
 
-![]({{ site.baseurl }}/img/iNTUition-2014-Photo.jpg){: .image-center}
+![]({{ site.baseurl }}/img/2017/09/iNTUition/iNTUition-2014-Photo.jpg){: .image-center}
 
 <p class="image-caption">iNTUition 2014's Opening Briefing</p>
 
@@ -55,11 +55,11 @@ And so, we ran the very first iNTUition with ~70 participants. Most of the event
 
 Since the first iNTUition in October 2014, we've had major improvements to branding, event quality and general tech-iness. We've organized iNTUition two more times, once in March 2016 ([iNTUition 2016](http://intuition16.ieeentu.com/)) when I was Chair of iNTUition's organizing committee and another time in October 2016 ([iNTUition v3.0](http://intuitionv3.ieeentu.com/)) when I was President of the club. Each year, we've gotten more participants and sponsors, better prizes & hacks of higher quality through the hard work and dedication of the team.
 
-![]({{ site.baseurl }}/img/iNTUition-2016-Winnings.jpg){: .image-center style="max-height: 20em"}
+![]({{ site.baseurl }}/img/2017/09/iNTUition/iNTUition-2016-Winnings.jpg){: .image-center style="max-height: 20em"}
 
 <p class="image-caption">The Winning Loot of iNTUition 2016</p>
 
-![]({{ site.baseurl }}/img/iNTUition-v3.0-Winners.jpg){: .image-center}
+![]({{ site.baseurl }}/img/2017/09/iNTUition/iNTUition-v3.0-Winners.jpg){: .image-center}
 
 <p class="image-caption">Winners &amp; Judging Panel of iNTUition v3.0</p>
 
@@ -67,7 +67,7 @@ Since the first iNTUition in October 2014, we've had major improvements to brand
 
 In conclusion, iNTUition has been a pretty important part of my university life and while I'm no longer part of the organizing committee, having ended my term as President in July 2017, I'm extremely excited to attend iNTUition 2017 as a participant and can't wait to see how iNTUition grows over the next few years.
 
-![]({{ site.baseurl }}/img/iNTUition-2017-Poster.png){: .image-center style="max-height: 25em"}
+![]({{ site.baseurl }}/img/2017/09/iNTUition/iNTUition-2017-Poster.png){: .image-center style="max-height: 25em"}
 
 <p class="image-caption">iNTUition 2017 Poster</p>
 

@@ -1,14 +1,14 @@
 ---
 layout: post
 title: First Week at Google!
-image: img/First-Week-at-Google-Post-Image.png
+image: img/2017/05/Google/Post-Image.png
 tags:
 - Thoughts
 ---
 
 So, yesterday marked the end of my first week as a Software Engineering Intern at Google Singapore and I couldn't be more excited about the next three months I'll be spending here!
 
-![]({{ site.baseurl }}/img/First-Week-at-Google-Google-Sign.jpg){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Google/Google-Sign.jpg){: .image-center}
 
 ### The Office
 
@@ -32,7 +32,7 @@ Additionally, from what I gathered during my first week, the engineering teams i
 
 In closing, I'm thrilled to be working here for the summer (already pushed a few lines of code to production on Friday, yay!) and can't wait for Monday (something I thought I'd never say). Here's to the next three months! 🍻
 
-![]({{ site.baseurl }}/img/First-Week-at-Google-Interns.jpg){: .image-center}
+![]({{ site.baseurl }}/img/2017/05/Google/Interns.jpg){: .image-center}
 
 <p class="image-caption">All of the summer interns with our Noogler caps!</p>
 
