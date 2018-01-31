@@ -23,6 +23,10 @@
 
         .title {
             padding-bottom: 5px;
+            @media only screen and (max-width: 991px) {
+                word-wrap: break-word;
+                hyphens: auto;
+            }
         }
     }
 
@@ -42,7 +46,7 @@
 
 // Pagination
 .pagination {
-    padding: $padding-small $padding-small $padding-x-small $padding-small;
+    padding: $padding-small $padding-small $padding-small $padding-small;
     text-align: center;
 
     .button {

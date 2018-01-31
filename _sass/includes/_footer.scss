@@ -1,8 +1,8 @@
 // Site Footer
 .site-footer {
-    @include padding-small;
     font-family: $font-family-sans-serif;
     font-size: 0.9em;
     text-align: center;
     color: lighten($text-color, 30%);
+    margin-bottom: 5%;
 }

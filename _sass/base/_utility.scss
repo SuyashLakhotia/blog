@@ -1,7 +1,7 @@
 // Mixins
 @mixin padding-small() {
     padding: $padding-x-small $padding-x-small * 2;
-    
+
     @media (max-width: 1000px) {
         padding: $padding-x-small $padding-x-small;
     }
@@ -9,7 +9,7 @@
 
 @mixin padding-regular() {
     padding: $padding-small $padding-large;
-    
+
     @media (max-width: 1000px) {
         padding: $padding-small * 1.5 $padding-large / 1.6;
     }
@@ -18,7 +18,7 @@
 @mixin padding-y-regular() {
     padding-top: $padding-small;
     padding-bottom: $padding-small;
-    
+
     @media (max-width: 1000px) {
         padding-top: $padding-small * 1.5;
         padding-bottom: $padding-small * 1.5;
