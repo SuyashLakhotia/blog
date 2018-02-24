@@ -26,15 +26,15 @@ permalink: /projects/
 
 [GitHub Repo](https://github.com/SuyashLakhotia/TextCategorization) &nbsp;\|&nbsp; Research &nbsp;\|&nbsp; September 2017 - Present
 
-<small>**Tech Stack:** <code>Python</code> <code>TensorFlow</code> <code>NumPy</code></small>
-
 <small>**Research Areas:** <code>Text Classification</code> <code>Neural Networks</code> <code>CNNs</code> <code>Graph CNNs</code></small>
+
+<small>**Tech Stack:** <code>TensorFlow</code> <code>scikit-learn</code> <code>NumPy</code></small>
 
 ##### Rotten Tomatoes Movie Reviews Classifier
 
 [GitHub Repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN) &nbsp;\|&nbsp; [Blog Post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}) &nbsp;\|&nbsp; Exploration &nbsp;\|&nbsp; September 2017 - December 2017
 
-<small>**Tech Stack:** <code>Python</code> <code>TensorFlow</code> <code>NumPy</code></small>
+<small>**Tech Stack:** <code>TensorFlow</code> <code>scikit-learn</code> <code>NumPy</code></small>
 
 ### Applied Machine Learning
 
@@ -44,7 +44,7 @@ permalink: /projects/
 
 'Context News Bot' is a Chrome extension that attaches itself to one's Twitter timeline and aims to provide more context to tweets. It does this by displaying relevant news articles and Wikipedia entries based on a tweet's content in an attempt to give the user a more rounded perspective and an easy-to-use tool for fact-checking. The client-side Chrome extension is written in JavaScript while the server is built on top of Flask in Python. The server-side natural language pipeline makes use of the Google Cloud Natural Language API combined with our custom heuristics. The project won a Top 8 prize and Most Socially Useful Hack at NUS Hack&Roll 2018.
 
-<small>**Tech Stack:** <code>Chrome Extension</code> <code>Python</code> <code>Flask</code> <code>Google Cloud Natural Language API</code></small>
+<small>**Tech Stack:** <code>Flask</code> <code>Google Cloud Natural Language API</code> <code>Twitter API</code> <code>News API</code> <code>Chrome Extension</code></small>
 
 ##### CommandPlus
 
@@ -52,7 +52,7 @@ permalink: /projects/
 
 'CommandPlus' is a Chrome extension that provides hand gesture based control of one's browser. It does this by interacting with the user's webcam and sending video frames from the live feed to a Python server running OpenCV for gesture detection. If one of the predefined gestures is detected, it triggers the respective action in the browser (e.g. scroll up or zoom in). The extension is aimed at helping individuals who are limited in their movement or fine motor skills and won the People's Choice Award at NUS Hack&Roll 2017.
 
-<small>**Tech Stack:** <code>Chrome Extension</code> <code>Python</code> <code>OpenCV</code></small>
+<small>**Tech Stack:** <code>OpenCV</code> <code>Chrome Extension</code></small>
 
 ##### Rossmann Store Sales
 
@@ -60,15 +60,15 @@ permalink: /projects/
 
 Rossmann Store Sales was a Kaggle competition to predict the daily sales for a chain of drug stores in Germany based on features like the date, store type, distance to the nearest competitor etc. My team and I solved the challenge by applying feature engineering and implementing various machine learning models for the problem, including regression models from scikit-learn and boosted decision trees from XGBoost. Our best model ranked 414<sup>th</sup> out of 3,303 submissions on Kaggle's private leaderboard. This project was done as part of an introductory course to machine learning at NTU.
 
-<small>**Tech Stack:** <code>Python</code> <code>scikit-learn</code> <code>XGBoost</code></small>
+<small>**Tech Stack:** <code>scikit-learn</code> <code>XGBoost</code> <code>pandas</code></small>
 
 ##### CodeBot
 
 [GitHub Repo](https://github.com/SuyashLakhotia/CodeBot) &nbsp;\|&nbsp; Facebook Singapore Hackathon 2016 &nbsp;\|&nbsp; September 2016
 
-'CodeBot' is a chatbot that helps beginners learn how to code. To make the otherwise daunting task of learning how to code for the first time easier, CodeBot incorporates witty replies, GIFs & human-readable errors to create an incredibly fun experience for a complete novice. Currently, it goes through a few elementary exercises in Python while answering user questions using basic NLP. The back-end is built on top of Node.js, MongoDB & api.ai (now DialogFlow) while the front-end is written in vanilla HTML, CSS & JavaScript.
+'CodeBot' is a chatbot that helps beginners learn how to code. To make the otherwise daunting task of learning how to code for the first time easier, CodeBot incorporates witty replies, GIFs & human-friendly error messages to create an incredibly fun experience for a complete novice. Currently, it goes through a few elementary exercises in Python while answering user questions using basic NLP. The back-end is built on top of Node.js, MongoDB & API.AI (now DialogFlow) while the front-end is written in vanilla HTML, CSS & JavaScript.
 
-<small>**Tech Stack:** <code>HTML5 + CSS3</code> <code>JavaScript</code> <code>Node.js</code> <code>DialogFlow</code> <code>MongoDB</code></small>
+<small>**Tech Stack:** <code>HTML5 + CSS3 + JS</code> <code>Bootstrap 3</code> <code>Node.js</code> <code>Dialogflow</code> <code>MongoDB</code></small>
 
 ### Web Development
 
@@ -78,7 +78,7 @@ Rossmann Store Sales was a Kaggle competition to predict the daily sales for a c
 
 'TripBuddy.SG' is an online platform that aims to bridge the gap between international students & local students in tertiary institutes in an attempt to promote cultural exchange. It does this by providing a space where local students can host short trips to authentic local destinations for international students. The working beta of the online platform was built using Django, PostgreSQL, Bootstrap, jQuery & various social media APIs and was deployed on a DigitalOcean droplet.
 
-<small>**Tech Stack:** <code>HTML5 + CSS3</code> <code>JavaScript</code> <code>jQuery</code> <code>Bootstrap 3</code> <code>Django</code> <code>Social Media APIs</code> <code>PostgreSQL</code></small>
+<small>**Tech Stack:** <code>HTML5 + CSS3 + JS</code> <code>jQuery</code> <code>Bootstrap 3</code> <code>Django</code> <code>Social Media APIs</code> <code>PostgreSQL</code></small>
 
 ##### InstaFeast
 
@@ -86,7 +86,7 @@ Rossmann Store Sales was a Kaggle competition to predict the daily sales for a c
 
 'InstaFeast' is a simple web application that allows users to check the top Instagram posts of food & beverages at their desired location. Using the Google Maps API, Facebook Graph API, Instagram API & an external face detection API, the app filters through recent Instagram posts from the user-defined location and returns the top posts of food & drinks. The back-end is built on top of Django while the front-end is written in vanilla HTML, CSS & JavaScript with Bootstrap.
 
-<small>**Tech Stack:** <code>HTML5 + CSS3</code> <code>JavaScript</code> <code>jQuery</code> <code>Bootstrap 3</code> <code>Django</code> <code>Google Maps API</code> <code>Social Media APIs</code></small>
+<small>**Tech Stack:** <code>HTML5 + CSS3 + JS</code> <code>jQuery</code> <code>Bootstrap 3</code> <code>Django</code> <code>Google Maps API</code> <code>Social Media APIs</code></small>
 
 ##### BootstrapCards
 
@@ -94,7 +94,7 @@ Rossmann Store Sales was a Kaggle competition to predict the daily sales for a c
 
 'BootstrapCards' is a Boostrap 3 template that I had initially created for my (old) personal website. It implements card-based web design and consists of templates that can be used for one-pagers as well as multi-page blogs. A demo of the template can be found [here](http://suyashlakhotia.com/BootstrapCards/).
 
-<small>**Tech Stack:** <code>HTML5 + CSS3</code> <code>JavaScript</code> <code>jQuery</code> <code>Bootstrap 3</code></small>
+<small>**Tech Stack:** <code>HTML5 + CSS3 + JS</code> <code>jQuery</code> <code>Bootstrap 3</code></small>
 
 ### Android Development
 
@@ -104,7 +104,7 @@ Rossmann Store Sales was a Kaggle competition to predict the daily sales for a c
 
 'When We Meet Again' is an Android application that uses the relative distance between users, determined using the phone's Bluetooth, to trigger a reminder/push notification. This allows users to set reminders that trigger when they are near a particular person. My team and I built a working prototype of the app during NUS Hack&Roll 2015, where it fetched us the Best Freshmen Award. It was also featured & staff-picked on [DevPost](http://devpost.com/software/when-we-meet-again).
 
-<small>**Tech Stack:** <code>Android</code></small>
+<small>**Tech Stack:** <code>Android</code> <code>Android Bluetooth APIs</code></small>
 
 ##### WWMAPulse
 
