@@ -41,8 +41,8 @@ The model had a maximum test accuracy of **76.17%** with a single graph convolut
 #### Summary
 
 | **Model**                                         | **Test Accuracy** |
-|---------------------------------------------------|-------------------|
-| Multinomial Naive Bayes (TF-IDF Vectorized Input) | 77.58%            |
+|:--------------------------------------------------|:-----------------:|
+| Multinomial Naive Bayes (TF-IDF Vectors)          | 77.58%            |
 | Model v1 (CNN)                                    | 74.30%            |
 | Model v1.2 (CNN w/ Pre-Trained Embeddings)        | 79.46%            |
 | Model v2 (CNN on Similarity Vectors)              | 75.61%            |
