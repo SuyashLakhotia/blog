@@ -8,6 +8,11 @@ permalink: /talks/
 
 Below is a list of talks/workshops I've conducted (in reverse chronological order):
 
+- **Workshop on Neural Networks & Keras**
+    - [Workshop Material](https://github.com/SuyashLakhotia/NTUOSS-NeuralNetworks), [Facebook Event Page](https://www.facebook.com/events/362663090882246/)
+    - Organized by NTU Open Source Society
+    - LT 13, Nanyang Technological University on 23 March 2018
+    - ~40 Attendees
 - **Workshop on Basic Web Dev & Bootstrap 4**
     - [Workshop Material](https://github.com/SuyashLakhotia/NTUOSS-Bootstrap4Workshop), [Facebook Event Page](https://www.facebook.com/events/121718955154465/)
     - Organized by NTU Open Source Society
