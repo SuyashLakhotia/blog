@@ -24,7 +24,9 @@ permalink: /projects/
 
 ##### Deep Learning for Text Categorization
 
-[GitHub Repo](https://github.com/SuyashLakhotia/TextCategorization) &nbsp;\|&nbsp; Research &nbsp;\|&nbsp; September 2017 - Present
+[GitHub Repo](https://github.com/SuyashLakhotia/TextCategorization) &nbsp;\|&nbsp; [Project Report]({{ site.baseurl }}/files/Final%20Year%20Project%20Report.pdf) &nbsp;\|&nbsp; Research &nbsp;\|&nbsp; September 2017 - May 2018
+
+My undergraduate thesis on deep learning for text categorization explored the recently enhanced deep learning techniques of convolutional neural networks and their fusion with graph analysis (i.e. graph convolutional neural networks) in the field of text categorization and compared their performance to established baseline models and simpler multilayer perceptrons. We showed through experiments on three major text classification datasets (Rotten Tomatoes Sentence Polarity, 20 Newsgroups and Reuters Corpus Volume 1) that graph convolutional neural networks can naturally work in the space of words represented as a graph and perform with greater or similar test accuracy when compared to standard convolutional neural networks and simpler baseline models.
 
 <small>**Research Areas:** <code>Text Classification</code> <code>Neural Networks</code> <code>CNNs</code> <code>Graph CNNs</code></small>
 
@@ -32,7 +34,9 @@ permalink: /projects/
 
 ##### Rotten Tomatoes Movie Reviews Classifier
 
-[GitHub Repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN) &nbsp;\|&nbsp; [Blog Post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}) &nbsp;\|&nbsp; Exploration &nbsp;\|&nbsp; September 2017 - December 2017
+[GitHub Repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN) &nbsp;\|&nbsp; [Blog Post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}) &nbsp;\|&nbsp; Research &nbsp;\|&nbsp; September 2017 - December 2017
+
+This project compared several machine learning techniques for classifying movie reviews from Rotten Tomatoes and served as the initial stage of my undergraduate thesis. You can read more about this project and its results in my [blog post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}).
 
 <small>**Tech Stack:** <code>TensorFlow</code> <code>scikit-learn</code> <code>NumPy</code></small>
 
