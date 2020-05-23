@@ -6,7 +6,7 @@ permalink: /talks/
 
 > Docendo discimus.
 
-Below is a list of talks/workshops I've conducted (in reverse chronological order):
+Below is a non-exhaustive list of talks/workshops I've conducted (in reverse chronological order):
 
 - **Workshop on Neural Networks & Keras**
     - [Workshop Material](https://github.com/SuyashLakhotia/NTUOSS-NeuralNetworks), [Facebook Event Page](https://www.facebook.com/events/362663090882246/)
