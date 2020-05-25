@@ -34,9 +34,9 @@ My undergraduate thesis on deep learning for text categorization explored the re
 
 ##### Rotten Tomatoes Movie Reviews Classifier
 
-[GitHub Repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN) &nbsp;\|&nbsp; [Blog Post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}) &nbsp;\|&nbsp; September 2017 - December 2017
+[GitHub Repo](https://github.com/SuyashLakhotia/RottenTomatoesCNN) &nbsp;\|&nbsp; [Blog Post]({{ site.baseurl }}{% post_url 2018-01-14-classifying-movie-reviews %}) &nbsp;\|&nbsp; September 2017 - December 2017
 
-This project compared several machine learning techniques for classifying movie reviews from Rotten Tomatoes and served as the initial stage of my undergraduate thesis. You can read more about this project and its results in my [blog post]({{ site.baseurl }}{% post_url 2018-01-14-movie-reviews-classifier %}).
+This project compared several machine learning techniques for classifying movie reviews from Rotten Tomatoes and served as the initial stage of my undergraduate thesis. You can read more about this project and its results in my [blog post]({{ site.baseurl }}{% post_url 2018-01-14-classifying-movie-reviews %}).
 
 <small>**Tech Stack:** <code>TensorFlow</code> <code>scikit-learn</code> <code>NumPy</code></small>
 
