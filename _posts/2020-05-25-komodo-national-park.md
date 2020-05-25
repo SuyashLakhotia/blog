@@ -32,7 +32,7 @@ While we were accompanied by a ranger at all times, his primary weapon of choice
 
 After watching the sun set over the hills of the island, we spent the night on the boat. An unexpected (but welcome) surprise was the immensely starry night that blanketed the open sky as I tried to spot any constellations I could recognize. Unfortunately, I wasn't carrying the right gear to capture this beautiful sight but it will forever be etched in my city-dwelling mind.
 
-We started the following day bright and early to hike up Padar Island and watch the sun rise over the Instagram-famous lagoon trio. After a photo session that lasted longer than I'd like to admit, we made our way down and to the next activity - snorkeling! While the plan was to swim alongside turtles and manta rays, they're both extremely shy creatures and it was hard to get a hold of them without being overly intrusive. So, we decided to just stick to the coral reefs around us and watch schools of fish swim around in the crystal clear water.
+We started the following day bright and early to hike up Padar Island and watch the sunrise atop the Instagram-famous lagoon trio. After a photo session that lasted longer than I'd like to admit, we made our way down and to the next activity - snorkeling! While the plan was to swim alongside turtles and manta rays, they're both extremely shy creatures and it was hard to get a hold of them without being overly intrusive. So, we decided to just stick to the coral reefs around us and watch schools of fish swim around in the crystal clear water.
 
 ![]({{ site.baseurl }}/img/2020/05/Komodo-National-Park/IMG_7139.jpeg){: .image-center style="max-height: 25em"}
 
