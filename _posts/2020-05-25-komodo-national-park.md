@@ -30,9 +30,9 @@ While we were accompanied by a ranger at all times, his primary weapon of choice
 
 <p class="image-caption">Camera Tricks & Komodo Dragons</p>
 
-After watching the sun set over the hills of the island, we spent the night on the boat. An unexpected surprise was the immensely starry night that blanketed the open sky as I tried to spot any constellations I could recognize. Unfortunately, I wasn't carrying the right gear to capture this beautiful sight but it will forever be etched in my city-dwelling mind.
+After watching the sun set over the hills of the island, we spent the night on the boat. An unexpected (but welcome) surprise was the immensely starry night that blanketed the open sky as I tried to spot any constellations I could recognize. Unfortunately, I wasn't carrying the right gear to capture this beautiful sight but it will forever be etched in my city-dwelling mind.
 
-We started the following day bright and early to hike up Padar Island to watch the sun rise over the Instagram-famous lagoon trio. After a photo session that lasted longer than I'd like to admit, we made our way down and to the next activity - snorkeling! While the plan was to swim alongside turtles and manta rays, they're both extremely shy creatures and it was hard to get a hold of them without being overly intrusive. So, we decided to just stick to the coral reefs around us and watch schools of fish swim around in the crystal clear water.
+We started the following day bright and early to hike up Padar Island and watch the sun rise over the Instagram-famous lagoon trio. After a photo session that lasted longer than I'd like to admit, we made our way down and to the next activity - snorkeling! While the plan was to swim alongside turtles and manta rays, they're both extremely shy creatures and it was hard to get a hold of them without being overly intrusive. So, we decided to just stick to the coral reefs around us and watch schools of fish swim around in the crystal clear water.
 
 ![]({{ site.baseurl }}/img/2020/05/Komodo-National-Park/IMG_7139.jpeg){: .image-center style="max-height: 25em"}
 
@@ -54,13 +54,13 @@ After an overnight pit stop at Labuan Bajo, we set off for the next half of our 
 
 <p class="image-caption">I wasn't kidding when I said endless rice fields</p>
 
-We spent the night at a lodge in Ruteng before heading further east the next day. On our way, we stopped by a traditional village (where we were kindly invited into the home of the village elder) and explored a large lake and its surrounding jungles. After lunch, we visited a local arrack distillery and tasted some of the traditional (and extremely strong) coconut liquor before relaxing at natural hot springs nearby.
+We spent the night at a lodge in Ruteng before heading further east the next day. On our way, we stopped by a traditional village (where we were kindly invited into the home of the village elder) and explored a large lake and its surrounding jungles. After lunch, we visited a local arrack distillery and tasted some of the traditional (and extremely strong) coconut liquor before relaxing at natural hot springs close by.
 
 ![]({{ site.baseurl }}/img/2020/05/Komodo-National-Park/IMG_7904.jpeg){: .image-center style="max-height: 25em"}
 
 <p class="image-caption">Breakfast with a view!</p>
 
-After a night of well-deserved rest (who knew sitting in a car all day would be this exhausting?), we spent the day exploring another traditional village nearby, where we were welcomed by friendly locals and even friendlier cats! After a drive across some rice terraces, we found ourselves at Blue Stone Beach in Ende known for its turquoise pebbles that fall from the cliffs nearby. After a delicious Indonesian meal at a beach shack, we drove for the rest of the day to our overnight lodging at the base of Mt. Kelimutu.
+After a night of well-deserved rest (who knew sitting in a car all day would be this exhausting?), we spent the day exploring another traditional village, where we were welcomed by friendly locals and even friendlier cats! After a drive across some rice terraces, we found ourselves at Blue Stone Beach in Ende known for its turquoise pebbles that fall from the cliffs nearby. After a delicious Indonesian meal at a beach shack, we drove for the rest of the day to our overnight lodging at the base of Mt. Kelimutu.
 
 ![]({{ site.baseurl }}/img/2020/05/Komodo-National-Park/IMG_7963.jpeg){: .image-center style="max-height: 25em"}
 
@@ -72,4 +72,4 @@ The highlight of our last day in Flores was hiking up Mt. Kelimutu in pitch blac
 
 <p class="image-caption">Sunrise at Mt. Kelimutu</p>
 
-After a quick visit to another traditional village nearby, we hopped onto a twin-rotor plane back to Labuan Bajo from a nearby local airport (which only opened for certain hours in the day when an airplane was due to take-off / land) and caught a flight back home from Komodo Airport the next day.
+After a quick visit to another traditional village nearby, we hopped onto a twin-rotor plane back to Labuan Bajo from the local airport (which only opened for certain hours in the day when an airplane was due to take-off / land) and caught a flight back home from Komodo Airport the next day.
